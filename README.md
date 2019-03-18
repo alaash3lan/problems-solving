@@ -1,2 +1,2 @@
 # ruby-problems
-some problems solving to practice ruby
+some problems solving to practice ruby..
