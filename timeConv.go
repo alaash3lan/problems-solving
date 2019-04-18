@@ -1,5 +1,10 @@
 package main
 
+/*
+   https://www.hackerrank.com/challenges/time-conversion/problem
+ 
+*/
+
 import "fmt"
 // import "regexp"
 import "strconv"
