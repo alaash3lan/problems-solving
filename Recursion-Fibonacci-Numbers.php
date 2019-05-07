@@ -33,7 +33,7 @@ function fib($n){
 		if ($j == $n )
 		{
 			
-            return $v;
+            echo $v;
 		}
 		if ($j == 30) {
           
